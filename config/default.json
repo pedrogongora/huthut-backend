@@ -1,0 +1,11 @@
+{
+  "api": {
+    "port": 1337,
+    "hostname": "localhost"
+  },
+  "mongodb": {
+    "port": 27017,
+    "hostname": "localhost",
+    "database": "huthut"
+  }
+}

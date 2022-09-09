@@ -13,7 +13,9 @@
     "@marblejs/middleware-body": "^4.0.3",
     "@marblejs/middleware-cors": "^4.0.3",
     "@marblejs/websockets": "^4.0.3",
+    "config": "^3.3.7",
     "fp-ts": "^2.12.3",
+    "mongodb": "^4.9.1",
     "ramda": "^0.28.0",
     "rxjs": "^7.5.6"
   }
