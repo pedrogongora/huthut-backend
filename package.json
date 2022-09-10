@@ -4,7 +4,8 @@
   "description": "interactive quiz in FPR",
   "main": "src/index.js",
   "scripts": {
-    "start": "node src/index.js"
+    "start": "node src/index.js",
+    "start-dev": "nodemon src/index.js"
   },
   "author": "Pedro A. Góngora",
   "license": "MIT",
@@ -18,5 +19,8 @@
     "mongodb": "^4.9.1",
     "ramda": "^0.28.0",
     "rxjs": "^7.5.6"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
   }
 }
